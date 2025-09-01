@@ -30,7 +30,7 @@ The main modules are located in [`src/datenollm/`](src/datenollm/):
 
 ## Examples
 
-The `examples/` directory contains Jupyter notebooks (Google Colab compatible).
+The [`examples/`](examples/) directory contains Jupyter notebooks (Google Colab compatible).
 
 Workflow steps:
 1. [`examples/dateno_llm_wf1-qery_assistant.ipynb`](examples/dateno_llm_wf1-qery_assistant.ipynb) — Query assistant agent
